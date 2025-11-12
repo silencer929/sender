@@ -1,0 +1,4 @@
+FirstName,LastName,phone,phone_normalized,message,attempts,success,status_code,response,sent_at
+Hannah,Wambui,254700267652,+254700267652,"Hi Hannah Wambui, your plan  expires ",1,True,200,,2025-11-12T07:42:29.519396Z
+Albert,Kimemia,254727987313,+254727987313,"Hi Albert Kimemia, your plan  expires ",1,True,200,,2025-11-12T07:42:29.768451Z
+Peter,Mbugua,254110605928,+254110605928,"Hi Peter Mbugua, your plan  expires ",1,True,200,,2025-11-12T07:42:30.017386Z

@@ -1,0 +1,2 @@
+how to find port command
+  wmic path Win32_SerialPort get DeviceID,Caption,PNPDeviceID
